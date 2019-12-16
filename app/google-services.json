@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96428115965",
+    "firebase_url": "https://book-f3e8e.firebaseio.com",
+    "project_id": "book-f3e8e",
+    "storage_bucket": "book-f3e8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96428115965:android:43e9aa1f051245e63cfb94",
+        "android_client_info": {
+          "package_name": "ujcv.edu.hn.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96428115965-hfhjl10nl5ubpqvudk82hvf2l326n883.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ujcv.edu.hn.book",
+            "certificate_hash": "377fe8bc8a84b69e875375a9f7f71813ef29429d"
+          }
+        },
+        {
+          "client_id": "96428115965-3cmmln4mpbld9lc3ccngi31vrrk2j3qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUxrapHwIGrz_JkTVgH0eU0DM4Ave2JFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96428115965-3cmmln4mpbld9lc3ccngi31vrrk2j3qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
